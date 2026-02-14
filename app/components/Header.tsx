@@ -16,7 +16,7 @@ export default function Header() {
                 </div>
 
                 <nav className="flex gap-6 text-sm font-medium text-gray-600">
-                    <Link href="/Bookmarks" className="hover:text-black">
+                    <Link href="/bookmarks" className="hover:text-black">
                         Bookmarks
                     </Link>
                     <Link href="/about" className="hover:text-black">
